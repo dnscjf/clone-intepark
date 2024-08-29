@@ -18,3 +18,5 @@
 - HTML
 - CSS
 - JS
+- React
+- Swiper
